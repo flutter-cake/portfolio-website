@@ -1,6 +1,6 @@
 import About1 from "../Components/About/About1";
 import Award1 from "../Components/Award/Award1";
-import Blog1 from "../Components/Blog/Blog1";
+// import Blog1 from "../Components/Blog/Blog1";
 import Choose1 from "../Components/Choose/Choose1";
 import Cta1 from "../Components/Cta/Cta1";
 import HeroBanner1 from "../Components/HeroBanner/HeroBanner1";
@@ -8,6 +8,8 @@ import Pricing1 from "../Components/Pricing/Pricing1";
 import Project1 from "../Components/Project/Project1";
 import Services1 from "../Components/Services/Services1";
 import Testimonial1 from "../Components/Testimonial/Testimonial1";
+
+
 
 const Home = () => {
     return (
