@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "/assets/img/team/team2-img1.png",
+    "title": "Imam Uddin Helal",
+    "desc": "Lead Flutter Developer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img2.png",
+    "title": "Amina Rahman",
+    "desc": "Senior Flutter Developer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img3.png",
+    "title": "Rafiq Ahmed",
+    "desc": "Backend Developer (Firebase/Node.js)"
+  },
+  {
+    "icon": "/assets/img/team/team2-img4.png",
+    "title": "Sadia Hossain",
+    "desc": "UI/UX Designer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img5.png",
+    "title": "Farhan Karim",
+    "desc": "Full Stack Developer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img6.png",
+    "title": "Nadia Chowdhury",
+    "desc": "Mobile App Tester / QA"
+  },
+  {
+    "icon": "/assets/img/team/team2-img7.png",
+    "title": "Tariq Hasan",
+    "desc": "Flutter Developer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img8.png",
+    "title": "Sara Islam",
+    "desc": "Frontend Developer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img9.png",
+    "title": "Rizwan Khan",
+    "desc": "DevOps / CI-CD Specialist"
+  },
+  {
+    "icon": "/assets/img/team/team2-img10.png",
+    "title": "Mina Akter",
+    "desc": "Project Manager"
+  },
+  {
+    "icon": "/assets/img/team/team2-img11.png",
+    "title": "Adnan Jahan",
+    "desc": "Flutter Developer"
+  },
+  {
+    "icon": "/assets/img/team/team2-img12.png",
+    "title": "Lina Karim",
+    "desc": "Technical Writer / Documentation"
+  }
+]

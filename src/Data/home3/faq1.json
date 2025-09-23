@@ -1,0 +1,26 @@
+[
+  {
+    "title": "What services do you offer for Flutter development?",
+    "desc": "We provide end-to-end Flutter app development services, including UI/UX design, cross-platform mobile apps, state management solutions, API integration, and app maintenance."
+  },
+  {
+    "title": "Can you build apps for both iOS and Android?",
+    "desc": "Yes! Flutter allows us to build high-performance apps that run seamlessly on both iOS and Android from a single codebase."
+  },
+  {
+    "title": "What state management solutions do you use?",
+    "desc": "We specialize in Provider, Riverpod, and Bloc for state management, ensuring scalable, maintainable, and testable Flutter applications."
+  },
+  {
+    "title": "Do you integrate backend services with Flutter apps?",
+    "desc": "Absolutely! We integrate Flutter apps with Firebase, REST APIs, GraphQL, and other third-party services for real-time, feature-rich applications."
+  },
+  {
+    "title": "How long does it take to develop a Flutter app?",
+    "desc": "Development time depends on app complexity, features, and integrations. Typically, a medium-sized Flutter app takes 6-12 weeks from design to deployment."
+  },
+  {
+    "title": "Do you provide app maintenance and updates?",
+    "desc": "Yes, we offer post-launch maintenance, performance optimization, bug fixes, and updates to ensure your app remains up-to-date and smooth."
+  }
+]

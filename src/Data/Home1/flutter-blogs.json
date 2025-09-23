@@ -1,0 +1,82 @@
+[
+  {
+    "img": "/assets/img/blog/blog2-img1.png",
+    "date": "22/09/2025",
+    "author": "Imam Uddin",
+    "title": "Why Flutter is the Future of Cross-Platform Apps",
+    "desc": "Explore why Flutter has become the go-to framework for building high-performance cross-platform mobile applications efficiently.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img2.png",
+    "date": "20/09/2025",
+    "author": "Imam Uddin",
+    "title": "Best Practices for Flutter App Architecture",
+    "desc": "Learn about clean architecture, state management solutions, and scalable patterns for building maintainable Flutter applications.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img3.png",
+    "date": "18/09/2025",
+    "author": "Imam Uddin",
+    "title": "Integrating Firebase in Flutter Apps",
+    "desc": "Step-by-step guide to integrating Firebase for authentication, cloud storage, and real-time databases in your Flutter projects.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img4.png",
+    "date": "15/09/2025",
+    "author": "Imam Uddin",
+    "title": "Flutter Performance Optimization Tips",
+    "desc": "Learn how to optimize Flutter apps for smooth animations, faster load times, and improved responsiveness on multiple devices.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img5.png",
+    "date": "12/09/2025",
+    "author": "Imam Uddin",
+    "title": "State Management in Flutter: Which to Choose?",
+    "desc": "A detailed overview of popular Flutter state management approaches like Provider, Bloc, and Riverpod with practical examples.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img6.png",
+    "date": "10/09/2025",
+    "author": "Imam Uddin",
+    "title": "Creating Custom Widgets in Flutter",
+    "desc": "Learn how to create reusable and customizable widgets in Flutter to build efficient and maintainable UI components.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img7.png",
+    "date": "08/09/2025",
+    "author": "Imam Uddin",
+    "title": "Handling API Calls in Flutter",
+    "desc": "Understand how to fetch and display data from REST APIs in Flutter, including error handling and state management.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img8.png",
+    "date": "05/09/2025",
+    "author": "Imam Uddin",
+    "title": "Animations in Flutter: A Complete Guide",
+    "desc": "Discover how to add animations in Flutter apps to enhance user experience using built-in widgets and custom animation techniques.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img1.png",
+    "date": "02/09/2025",
+    "author": "Imam Uddin",
+    "title": "Testing Flutter Apps Efficiently",
+    "desc": "Learn how to write unit, widget, and integration tests in Flutter to ensure your apps are reliable and bug-free.",
+    "link": "/blog/blog-details"
+  },
+  {
+    "img": "/assets/img/blog/blog2-img2.png",
+    "date": "30/08/2025",
+    "author": "Imam Uddin",
+    "title": "Deploying Flutter Apps to Play Store & App Store",
+    "desc": "Step-by-step guide for deploying your Flutter apps to Android and iOS app stores, including signing and build configurations.",
+    "link": "/blog/blog-details"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icons/hero-bottom-icon1.png",  
+    "title": "2–4× Faster Time-to-Ship",
+    "desc": "Agile sprints & rapid iteration"
+  },
+  {
+    "img": "/assets/img/icons/hero-bottom-icon2.png",  
+    "title": "60 FPS Smooth UI",
+    "desc": "Optimized for jank-free scrolling"
+  },
+  {
+    "img": "/assets/img/icons/hero-bottom-icon3.png",  
+    "title": "–30% App Size",
+    "desc": "Asset & tree-shake optimization"
+  },  
+  {
+    "img": "/assets/img/icons/hero-bottom-icon4.png",  
+    "title": "<10s CI/CD Builds",
+    "desc": "Automated tests & store deploys"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "img": "/assets/img/work/project-img1.png",   
+    "title": "E-Commerce Mobile App (Flutter + Firebase)",
+    "btnName": "View Project"
+  },
+  {
+    "img": "/assets/img/work/project-img2.png",   
+    "title": "Food Delivery App with Real-Time Tracking",
+    "btnName": "View Project"
+  },
+  {
+    "img": "/assets/img/work/project-img3.png",   
+    "title": "Healthcare Appointment Booking App",
+    "btnName": "View Project"
+  },
+  {
+    "img": "/assets/img/work/project-img1.png",   
+    "title": "Educational LMS App with Video Streaming",
+    "btnName": "View Project"
+  },  
+  {
+    "img": "/assets/img/work/project-img2.png",   
+    "title": "Social Media & Chat Application",
+    "btnName": "View Project"
+  },
+  {
+    "img": "/assets/img/work/project-img3.png",   
+    "title": "Finance & Expense Tracking App",
+    "btnName": "View Project"
+  }         
+]

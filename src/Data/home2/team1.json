@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/team/team2-img1.png",  
+    "title": "Imam Uddin Helal",
+    "desc": "Professional Flutter Developer"
+  },
+  {
+    "img": "/assets/img/team/team2-img2.png",  
+    "title": "John Smith",
+    "desc": "UI/UX Designer"
+  },
+  {
+    "img": "/assets/img/team/team2-img3.png",  
+    "title": "Sarah Thompson",
+    "desc": "Backend Developer"
+  },  
+  {
+    "img": "/assets/img/team/team2-img4.png",  
+    "title": "David Garcia",
+    "desc": "Mobile App Tester"
+  }
+]

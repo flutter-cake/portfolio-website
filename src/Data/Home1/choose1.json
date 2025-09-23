@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/img/icons/flutter-app.png",  
+    "title": "Cross-Platform App Development",
+    "desc": "Build high-performance apps that run seamlessly on both Android and iOS using a single Flutter codebase."
+  },
+  {
+    "img": "/assets/img/icons/ui-ux.png",  
+    "title": "Custom UI/UX Design",
+    "desc": "Deliver pixel-perfect, modern, and intuitive interfaces that enhance user experience and engagement."
+  },
+  {
+    "img": "/assets/img/icons/api.png",  
+    "title": "API Integration & Firebase",
+    "desc": "Integrate powerful REST APIs, GraphQL, and Firebase services to add real-time features and scalability."
+  }
+]

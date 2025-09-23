@@ -1,0 +1,56 @@
+[
+  {
+    "icon": "/assets/img/icons/service-page-icon1.png",
+    "title": "Flutter Consulting",
+    "desc": "Expert guidance on Flutter app architecture, roadmap planning, and best practices to build high-quality mobile solutions.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon2.png",
+    "title": "Flutter App Development",
+    "desc": "Building robust, cross-platform mobile applications for iOS and Android using Flutter with smooth UI/UX.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon3.png",
+    "title": "Cloud Integration",
+    "desc": "Integrating Flutter apps with cloud platforms for scalable backend services, storage, and real-time APIs.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon4.png",
+    "title": "App Security & Compliance",
+    "desc": "Ensuring Flutter app security with vulnerability analysis, secure coding practices, and compliance best practices.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon5.png",
+    "title": "Analytics & Reporting",
+    "desc": "Adding data-driven features to apps, including dashboards, reporting, and performance analytics for informed decision-making.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon6.png",
+    "title": "Maintenance & Support",
+    "desc": "Ongoing updates, performance optimization, and monitoring of Flutter apps to ensure reliability and scalability.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon7.png",
+    "title": "Custom Flutter Solutions",
+    "desc": "Designing and building tailored Flutter applications to meet specific client requirements and business workflows.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon8.png",
+    "title": "Backend & API Integration",
+    "desc": "Setting up backend services, APIs, and networking to ensure secure, reliable, and high-performance Flutter applications.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon9.png",
+    "title": "Cross-Platform App Development",
+    "desc": "Delivering fully responsive Flutter apps that run seamlessly across iOS, Android, and web platforms with optimal UX.",   
+    "btnLink": "/service/service-details"
+  }       
+]

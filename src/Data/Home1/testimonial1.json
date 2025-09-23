@@ -1,0 +1,18 @@
+[
+  {
+    "image1": "/assets/img/testimonial/tes1-smoll-img.png",
+    "image2": "/assets/img/testimonial/tes1-big-img.png",
+    "title": "Client Feedback",
+    "desc": "Working with Imam Uddin Helal was a fantastic experience. He developed our Flutter app with clean code, great performance, and an intuitive design. The entire process was smooth, and delivery was on time.",
+    "clientName": "Sarah Ahmed",
+    "designation": "Startup Founder"
+  },
+  {
+    "image1": "/assets/img/testimonial/tes1-smoll-img.png",
+    "image2": "/assets/img/testimonial/tes1-big-img.png",
+    "title": "Client Feedback",
+    "desc": "Imam is a highly skilled Flutter developer who truly understands cross-platform development. He helped us launch a polished mobile app that our customers love. I would definitely work with him again.",
+    "clientName": "Michael Johnson",
+    "designation": "Business Owner"
+  }
+]
