@@ -1,6 +1,6 @@
 [
   {
-    "icon": "/assets/img/icons/flutter-icon.png",
+    "icon": "/assets/img/icons/flutter_icon.webp",
     "title": "Flutter App Development",
     "desc": "Imam Uddin Helal specializes in building high-performance, cross-platform mobile applications using Flutter. From idea to deployment, he delivers pixel-perfect, scalable, and maintainable apps.",   
     "btnText": "View Portfolio",
@@ -8,7 +8,7 @@
     "addClass": "col-lg-6"
   },
   {
-    "icon": "/assets/img/icons/uiux-icon.png",
+    "icon": "/assets/img/icons/ui_ux_icon.png",
     "title": "UI/UX Design & Implementation",
     "desc": "Crafting elegant and intuitive user interfaces with seamless user experiences is at the heart of Imam’s work. He bridges design and development to create apps users love.",   
     "btnText": "Learn More",
@@ -16,7 +16,7 @@
     "addClass": "col-lg-6"
   },
   {
-    "icon": "/assets/img/icons/backend-icon.png",
+    "icon": "/assets/img/icons/api_backend.png",
     "title": "API Integration & Backend",
     "desc": "With strong backend knowledge, Imam efficiently integrates RESTful APIs, GraphQL, and Firebase to power feature-rich applications that are reliable and secure.",   
     "btnText": "Learn More",
@@ -24,7 +24,7 @@
     "addClass": "col-lg-4"
   },
   {
-    "icon": "/assets/img/icons/performance-icon.png",
+    "icon": "/assets/img/icons/app_optimization.png",
     "title": "App Optimization & Performance",
     "desc": "Optimizing apps for speed, memory usage, and smooth animations. Imam ensures that apps run efficiently on both iOS and Android platforms with best practices.",   
     "btnText": "Learn More",
@@ -32,7 +32,7 @@
     "addClass": "col-lg-4"
   },
   {
-    "icon": "/assets/img/icons/support-icon.png",
+    "icon": "/assets/img/icons/maintenance.png",
     "title": "Maintenance & Support",
     "desc": "Beyond development, Imam provides continuous support and maintenance, ensuring your applications remain secure, up-to-date, and compatible with the latest technologies.",   
     "btnText": "Contact Imam",

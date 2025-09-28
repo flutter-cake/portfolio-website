@@ -24015,3 +24015,8 @@ background-color: unset;
 .image-250px {
   width: 250px;
 }
+
+.brand-single-box img{
+  height: 30px;
+  margin-right: 10px;
+}
